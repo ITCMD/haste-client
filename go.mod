@@ -1,3 +1,3 @@
-module github.com/zneix/haste-client
+module github.com/W1BTR/haste-client
 
 go 1.19
