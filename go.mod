@@ -1,3 +1,3 @@
-module github.com/W1BTR/haste-client
+module github.com/ITCMD/haste-client
 
 go 1.19
